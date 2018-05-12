@@ -1,0 +1,33 @@
+_repo: Chapters-of-Bible-StudyA-Popular-Introduction-to-the-Study-of-the-Sacred-Scriptures_35682
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heuser, Herman J. (Herman Joseph)
+    aliases:
+    - Heuser, Herman Joseph
+    - Heuser, H. J. (Herman Joseph)
+    birthdate: 1851
+    deathdate: 1933
+    gutenberg_agent_id: '37832'
+    url: http://www.gutenberg.org/2009/agents/37832
+description: ''
+gutenberg_issued: '2011-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35682'
+  lccn: '17016014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Study and teaching -- Catholic Church'
+- !lcc 'BS'
+- !lcsh 'Bible -- Criticism, interpretation, etc.'
+title: 'Chapters of Bible Study
+
+  A Popular Introduction to the Study of the Sacred Scriptures'
+url: http://www.gutenberg.org/ebooks/35682
