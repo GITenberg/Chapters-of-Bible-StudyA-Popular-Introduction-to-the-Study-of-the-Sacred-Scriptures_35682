@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '37832'
     url: http://www.gutenberg.org/2009/agents/37832
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35682#Chapters-of-Bible-StudyA-Popular-Introduction-to-the-Study-of-the-Sacred-Scriptures
 gutenberg_issued: '2011-03-25'
 gutenberg_type: Text
 identifiers:
